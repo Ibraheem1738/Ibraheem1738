@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ibraheem1738
 - 👀 I’m interested in game development in general
 - 🌱 I’m currently learning fundamentals of coding in games
-- 💞️ I’m looking to collaborate on working togather and make something special
+- 💞️ I’m looking to collaborate on working together and make something special
 - 📫 How to reach me Instagram:ibraheem1738
 
 <!---
